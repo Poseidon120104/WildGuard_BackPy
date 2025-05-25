@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+numpy
+pillow
+tensorflow
+torch
+torchvision
+fastai
+opencv-python
+scikit-learn
+matplotlib
+pandas
+joblib
